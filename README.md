@@ -53,6 +53,9 @@ Download
     
 
 ## Version History ##
+### 1.1.1 - December 9, 2011###
+- Updated growl support to applescript spec on growl.info
+
 ### 1.1.0 - August 16, 2011###
  
 - For SMS you no longer need the country code if number if U.S.

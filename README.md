@@ -49,7 +49,7 @@ Examples
 
 Download
 ----------------
-[Skype Controls](http://dl.dropbox.com/u/45930/Alfred%20Apps/Skype%20Controls/Skype%20Controls.alfredextension)
+[Skype Controls](https://github.com/phpfunk/alfred-skype-controls/downloads)
     
 
 ## Version History ##
